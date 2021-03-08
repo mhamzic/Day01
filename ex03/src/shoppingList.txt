@@ -4,4 +4,4 @@ Shopping list:
 - Bannanas;
 - Cherries;
 - Carrots;
-- Strawberries
+- Strawberries;
